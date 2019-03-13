@@ -7,5 +7,5 @@
 ###                                   Creative Commons 3.0
 
                                      
-![CREATIVE COMMONS 3.0] (https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.eu.png)
+![CREATIVE COMMONS 3.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.eu.png)
 
