@@ -8,3 +8,8 @@
 	![CREATIVE COMMONS 3.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.eu.png)
 	![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
