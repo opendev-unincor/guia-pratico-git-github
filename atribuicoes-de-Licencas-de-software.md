@@ -2,7 +2,7 @@
 #                                      Licenças de Software
 
      
-   O Livro ProGIT disponibilizado gratuitamente está sob uma licença especial chamada de Creative Commons, vamos começar por ai.Esta licença possui algumas características peculiares, mas não únicas a uma única. Existem outras licenças,por hora a licença do livro será o ponto inicial até um trabalho completo de todas as licenças de permissão assim como as licenças oficiais de software.  
+   O Livro ProGIT disponibilizado gratuitamente está sob uma licença especial chamada de Creative Commons, vamos começar por ai.Esta licença possui algumas características peculiares, mas não restrita a uma única podendo haver variaçoes importantes e significativas. Existem outras licenças,por hora a licença do livro será o ponto inicial até um trabalho completo de todas as licenças de permissão assim como as licenças oficiais de software.  
 
 ![LIVRO PROGIT](https://git-scm.com/images/progit2.png)
   
