@@ -9,5 +9,5 @@
                                      
 ![CREATIVE COMMONS 3.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.eu.png)
 
-![CREATIVE COMMONS 3.0](https://creativecommons.org/images/deed/attribution_icon_white_x2.png)
+![CREATIVE COMMONS 3.0.1](https://creativecommons.org/images/deed/attribution_icon_white_x2.png)
 
